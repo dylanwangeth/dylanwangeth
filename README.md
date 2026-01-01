@@ -1,6 +1,6 @@
   
 <div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
-    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=dylanwang716&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Dylan's github stats" />
+    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=lilhammerfun&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Dylan's github stats" />
   <div>
     <h3>ABOUT ME</h3>
    <p>🌱 Always learning, always building — especially around Rust, secure systems, and developer tools.</p>
