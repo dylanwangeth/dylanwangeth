@@ -6,6 +6,6 @@
     
    <p> Personal site: <a href="https://lilhammer.fun" target="_blank">lilhammer.fun</a></p>
    <p> Contact me: <a href="mailto:wwwwwdemon@gmail.com">wwwwwdemon@gmail.com</a></p>
-   <p> I'm always open to discussions around blockchain, tech, and education. Don’t hesitate to reach out — whether it’s to share ideas, collaborate, or just learn from each other!</p>
+   <p>"Elegance never goes out of fashion."</p>
   </div>
 </div>
