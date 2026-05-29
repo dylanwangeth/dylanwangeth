@@ -6,6 +6,5 @@
     
    <p> Personal site: <a href="https://lilhammer.fun" target="_blank">lilhammer.fun</a></p>
    <p> Contact me: <a href="mailto:wwwwwdemon@gmail.com">wwwwwdemon@gmail.com</a></p>
-   <p>"Elegance never goes out of fashion."</p>
   </div>
 </div>
